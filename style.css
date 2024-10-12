@@ -1,0 +1,32 @@
+footer img{
+    width:100px;
+    height:100px;
+}
+main img{
+   width:200x;
+    height:250px; 
+}
+header h1{
+    text-align: center;
+}
+body{
+    font-family: cursive;
+    background-color: aqua;
+}
+h2{
+    text-align: center;
+}
+nav {
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+    margin:10px;
+    color:black;
+}
+h3{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
